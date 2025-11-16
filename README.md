@@ -68,8 +68,6 @@ Open a terminal or command prompt in your project directory and compile the prog
 ```sh
 g++ "Final Project Copy 1.cpp" -o RentalSystem.exe
 ```
----
-```
 
 ## Team & Contributions
 
@@ -81,3 +79,5 @@ This project was a collaborative effort. The following members contributed to it
 | **Sample Name**    | UI/UX Developer / Technical Writer        | `[username](https://github.com/TheirUsernameHere)`   |
 | **Sample Name** | Back-End Developer (Financial Module)   | `[username](https://github.com/TheirUsernameHere)`   |
 | **kksuyo** | Back-End Developer (Authentication Module)| `[kksuyo](https://github.com/kksuyo)`   |
+
+
