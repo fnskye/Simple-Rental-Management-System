@@ -68,3 +68,5 @@ Open a terminal or command prompt in your project directory and compile the prog
 ```sh
 g++ "Final Project Copy 1.cpp" -o RentalSystem.exe
 ```
+
+kksuyo
