@@ -67,3 +67,17 @@ To compile and run this project, you will need a C++ compiler (like G++ from Min
 Open a terminal or command prompt in your project directory and compile the program using the following command (replace the filename if yours is different):
 ```sh
 g++ "Final Project Copy 1.cpp" -o RentalSystem.exe
+```
+---
+```
+
+## Team & Contributions
+
+This project was a collaborative effort. The following members contributed to its design, development, and documentation.
+
+| Name                         | Role                                      | GitHub Profile                                       |
+| ---------------------------- | ----------------------------------------- | ---------------------------------------------------- |
+| **stillyoswa**  | Project Lead / Lead Developer / Integrator| [fnskeye](https://github.com/fnskeye)                |
+| **Sample Name**    | UI/UX Developer / Technical Writer        | `[username](https://github.com/TheirUsernameHere)`   |
+| **Sample Name** | Back-End Developer (Financial Module)   | `[username](https://github.com/TheirUsernameHere)`   |
+| **kksuyo** | Back-End Developer (Authentication Module)| `[kksuyo](https://github.com/kksuyo)`   |
