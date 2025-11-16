@@ -67,3 +67,4 @@ To compile and run this project, you will need a C++ compiler (like G++ from Min
 Open a terminal or command prompt in your project directory and compile the program using the following command (replace the filename if yours is different):
 ```sh
 g++ "Final Project Copy 1.cpp" -o RentalSystem.exe
+```
