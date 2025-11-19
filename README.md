@@ -76,8 +76,8 @@ This project was a collaborative effort. The following members contributed to it
 | Name                         | Role                                      | GitHub Profile                                       |
 | ---------------------------- | ----------------------------------------- | ---------------------------------------------------- |
 | **stillyoswa**  | Project Lead / Lead Developer / Integrator| [fnskye](https://github.com/fnskye)                |
-| **unknown**    | UI/UX Developer / Technical Writer        | [unknown](https://github.com/unknown?)   |
-| **unknown** | Back-End Developer (Financial Module)   | [unknown](https://github.com/unknown?)   |
+| **unknown**    | UI/UX Developer / Technical Writer        | [unknown](https://github.com/)   |
+| **unknown** | Back-End Developer (Financial Module)   | [unknown](https://github.com/)   |
 | **kksuyo** | Back-End Developer (Authentication Module)| [kksuyo](https://github.com/kksuyo)   |
 
 
